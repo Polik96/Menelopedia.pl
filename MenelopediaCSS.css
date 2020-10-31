@@ -1,0 +1,11 @@
+*{
+	margin: 0 0 0 0; 
+	pading: 0 0 0 0;
+	box-sizing: border-box;
+}
+
+#text {
+	display: block;
+	max-width: 960px;
+	margin: 0 auto 0 auto;
+}
